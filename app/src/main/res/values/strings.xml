@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoviesTask_IkenAssignment</string>
+    <string name="enter_movie_name">Enter Movie Name</string>
+    <string name="search">Search</string>
+    <string name="no_results">No results, please check the name and try again</string>
+    <string name="movie_name">Movie Name :</string>
+    <string name="movie_release_date">Movie Release Date :</string>
+    <string name="no_result_text">none</string>
+    <string name="movie_overview">Movie Overview :</string>
+    <string name="search_for_a_movie">Search for a movie</string>
+    <string name="movie_task_app">Movie Task</string>
+</resources>
